@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Treino</string>
+    <string name="distancia" />
+    <string name="porfavor" />
+    <string name="notificação" />
+    <string name="campos">preencha os dois campos</string>
+</resources>
